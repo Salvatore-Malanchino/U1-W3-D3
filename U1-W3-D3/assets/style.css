@@ -1,0 +1,23 @@
+
+body{
+    text-align: center;
+    background-image: url(./download.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+
+.linea{
+    text-decoration:line-through;}
+
+ table{
+    border: solid 1px black;
+}
+   button{
+    -webkit-box-shadow: 0px 20px 0px -10px #FFFFFF, 0px -20px 0px -10px #FFFFFF, 20px 0px 0px -10px #FFFFFF, -20px 0px 0px -10px #FFFFFF, 0px 0px 0px 10px #FF0000, 5px 5px 0px 3px rgba(205,94,255,0); 
+    box-shadow: 0px 20px 0px -10px #FFFFFF, 0px -20px 0px -10px #FFFFFF, 20px 0px 0px -10px #FFFFFF, -20px 0px 0px -10px #FFFFFF, 0px 0px 0px 10px #FF0000, 5px 5px 0px 3px rgba(205,94,255,0);
+   } 
+
+input{
+    -webkit-box-shadow: 0px 20px 0px -10px #FFFFFF, 0px -20px 0px -10px #FFFFFF, 20px 0px 0px -10px #FFFFFF, -20px 0px 0px -10px #FFFFFF, 0px 0px 0px 10px #FF0000, 5px 5px 0px 3px rgba(205,94,255,0); 
+box-shadow: 0px 20px 0px -10px #FFFFFF, 0px -20px 0px -10px #FFFFFF, 20px 0px 0px -10px #FFFFFF, -20px 0px 0px -10px #FFFFFF, 0px 0px 0px 10px #FF0000, 5px 5px 0px 3px rgba(205,94,255,0);}
